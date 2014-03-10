@@ -45,7 +45,7 @@ class Turbo
         }
 
         // We only process if we find a valid <body>
-        preg_match('/(?:<body[^>]*>)(.*)<\/body>/isU', $content, $matches);
+        preg_match('/(?:<content[^>]*>)(.*)<\/content>/isU', $content, $matches);
 
         // Did we find the body
         if (count($matches) !== 2) {
