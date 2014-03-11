@@ -1,5 +1,5 @@
 {
-    "name": "rcrowe/turbo",
+    "name": "hendriksaragih/turbo",
     "description": "Think turbolinks but for your PHP application. Powered by pjax.",
     "keywords": ["pjax", "turbolinks", "laravel", "fuelphp"],
     "license": "MIT",
